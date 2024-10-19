@@ -51,29 +51,29 @@ If you find any issues with the website or have suggestions for improvement, ple
 
 #### Training Guideline Section
 
-![2]()
+![2](https://github.com/Engglala243/Fitness_Club/blob/main/assest/Second.png)
 
 #### FAQ Section
 
-![3]()
+![3](https://github.com/Engglala243/Fitness_Club/blob/main/assest/Third.png)
 
 #### Our Classess Section
 
-![4]()
+![4](https://github.com/Engglala243/Fitness_Club/blob/main/assest/Fourth.png)
 
 ####  Classes Scdedule Section
 
-![6]()
+![5](https://github.com/Engglala243/Fitness_Club/blob/main/assest/Fifth.png)
 
 #### Gallery Section
 
-![7]()
+![6](https://github.com/Engglala243/Fitness_Club/blob/main/assest/Sixth.png)
 
 #### Pricing Section
 
-![8]()
+![7](https://github.com/Engglala243/Fitness_Club/blob/main/assest/Seventh.png)
 
 #### Footer Section
 
-![9]()
+![8](https://github.com/Engglala243/Fitness_Club/blob/main/assest/Eighth.png)
 
